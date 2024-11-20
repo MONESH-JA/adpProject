@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contact</title>
+</head>
+<body>
+    <h1>Contact Us</h1>
+    <p>Get in touch for more information.</p>
+    <nav>
+        <a href="index.html">Home</a> | 
+        <a href="rooms.html">Rooms</a> | 
+        <a href="booking.html">Booking</a> | 
+        <a href="contact.html">Contact</a>
+    </nav>
+</body>
+</html>
